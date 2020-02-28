@@ -5,6 +5,6 @@ end
 
 
 
-def my_own_reduce(source_array, starting_point = 0)
+def reduce(source_array, starting_point = 0)
   
 end
