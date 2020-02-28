@@ -9,7 +9,7 @@ def map(source_array)
 end
 
 def reduce(source_array, sv=nil)
-  if starting_point
+  if sv
     total = sv
     counter = 0
   else 
